@@ -44,5 +44,5 @@ def predict_image(image_path):
         print("Prediction: Real Currency")
 
 # Example usage: Test with a single image
-predict_image(r'C:\Users\Lenova\Desktop\fake currency\dataset\test\real\1.jpg')
+predict_image(r'C:\Users\Lenova\Desktop\fake currency\dataset\train\real\0_jpg.rf.0e988e9bd847768928bbc95df426293c.jpg')
   # Replace with the path to an image
